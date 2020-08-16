@@ -59,6 +59,17 @@ These design patterns are all about Class's objects communication. Behavioral pa
 * Template method: Defer the exact steps of an algorithm to a subclass
 * Visitor: Defines a new operation to a class without change
 
-
+#
 #### Class Nº 1
+Tengo que sacar un credito. Monto, Cantidad de pagos, interes.
+
+hacer una html con la planilla de pagos
+
+
+1) 100 900
+2) 100 800
+3) 100 700
+
+Ingresar por consola los tres itemos Monto, cantidad de pagos, interes, Sistema amortizacion
+#
 
